@@ -1,5 +1,5 @@
  Hi there 👋
 
-- 🔭 Currently working on ASP.NET Core
-- 🌱 Currently learning C# Web Development with ASP.NET Core
+- 🔭 Currently working on HTML & CSS
+- 🌱 Currently learning HTML & CSS
 - 📫 How to reach me: ivan.georgiev0904@gmail.com
