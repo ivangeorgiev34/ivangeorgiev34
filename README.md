@@ -1,5 +1,5 @@
  Hi there 👋
 
-- 🔭 Currently working on JS-Front-End
-- 🌱 Currently learning JS-Front-End
+- 🔭 Currently working on ReactJS
+- 🌱 Currently learning ReactJS
 - 📫 How to reach me: ivan.georgiev0904@gmail.com
