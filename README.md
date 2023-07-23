@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Ivan Georgiev</h1>
-<h3 align="center">A self-motivated .NET developer from Bulgaria</h3>
+<h3 align="center">A passionate .NET developer from Bulgaria</h3>
 
 🔭 I’m currently working on [PropertyPro](https://github.com/ivangeorgiev34/PropertyPro)
 
