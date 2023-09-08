@@ -3,7 +3,7 @@
 
 🔭 I’m currently working on [PropertyPro](https://github.com/ivangeorgiev34/PropertyPro)
 
-🌱 I’m currently learning **React.js**
+🌱 I’m currently learning **Docker**
 
 💬 Ask me about **.NET, Entity Framework Core, MS SQL**
 
