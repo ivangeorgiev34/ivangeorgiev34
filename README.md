@@ -40,5 +40,17 @@
   <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a>
 </p>
 
+## Certificates
+- <a href="https://softuni.bg/Certificates/Details/125214/52a9379c">Programming Basics</a>
+- <a href="https://softuni.bg/certificates/details/139517/45fd685a">Programming Fundamentals with C#</a>
+- <a href="https://softuni.bg/certificates/details/144052/8d515616">C# Advanced</a>
+- <a href="https://softuni.bg/certificates/details/150791/4240c913">C# OOP</a>
+- <a href="https://softuni.bg/certificates/details/157697/4ff4d2e0">MS SQL</a>
+- <a href="https://softuni.bg/certificates/details/164770/e3eff302">Entity Framework Core</a>
+- <a href="https://softuni.bg/certificates/details/175355/c11674c3">ASP.NET Fundamentals</a>
+- <a href="https://softuni.bg/certificates/details/182180/3609dc4d">ASP.NET Advanced</a>
+- <a href="https://softuni.bg/certificates/details/174712/5c364c94">HTML & CSS</a>
+- <a href="https://softuni.bg/certificates/details/181261/3cf24184">JS Front-End</a>
+
 ## GitHub Trophies
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ivangeorgiev34" alt="ivangeorgiev34" /></a> </p>
