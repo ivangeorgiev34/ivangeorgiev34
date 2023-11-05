@@ -51,6 +51,7 @@
 - <a href="https://softuni.bg/certificates/details/182180/3609dc4d">ASP.NET Advanced</a>
 - <a href="https://softuni.bg/certificates/details/174712/5c364c94">HTML & CSS</a>
 - <a href="https://softuni.bg/certificates/details/181261/3cf24184">JS Front-End</a>
+- <a href="https://softuni.bg/Certificates/Details/192004/4914398f">Containers and Cloud</a>
 
 ## GitHub Trophies
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ivangeorgiev34" alt="ivangeorgiev34" /></a> </p>
